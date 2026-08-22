@@ -5,6 +5,7 @@
   <b>Brasil</b>. I'm trying to get more into the software area to improve my skills.
 </p>
 
+> **22-08-2026:** *Lock in.*
 <h3>Contact</h3>
 <a href="mailto:rodrigoiasculski@gmail.com">
   <img src="https://img.shields.io/badge/rodrigoiasculski%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Gmail" />
